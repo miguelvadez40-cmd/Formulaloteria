@@ -1,2 +1,4 @@
-# Formulaloteria
-App de calculos loteria
+app/
+gradle/
+build.gradle
+settings.gradle
